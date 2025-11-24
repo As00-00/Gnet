@@ -1,6 +1,6 @@
 # Gnet
 Validating High-Performance CNN Architectures for EEG Signal Classification
- ThisreportdetailsthecriticalreplicationoftheGENetdeeplearningarchitectureforSchizophre
+ This report details the critical replication of the GENet deeplearning architecture forSchizophre
 nia (SZ2) detection. While the original paper claimed an accuracy of 9958%, our rigorously
  implemented protocol yielded a maximum subject-level accuracy of 8571%. This significant
  discrepancy( 118%gap)wasanalyzedusingXAI(t-SNE)andstatisticalmethods(PCA+LDA).
